@@ -36,7 +36,7 @@ Clone the repository to your Raspberry Pi and run the installation script as Roo
 
 ```bash
 # 1. Clone repository
-git clone https://git.joelunger.de/homelab/piWAN.git
+git clone https://github.com/joelunger/piWAN.git
 cd piWAN
 
 # 2. Make scripts executable
